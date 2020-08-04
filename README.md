@@ -9,5 +9,5 @@ I'm a **Backend Developer** working in **KASIKORN Business - Technology Group, T
 - ⚙️ Setup: **Macbook Pro 15" 2019**, **Keychron K4**, **Logiech MX Masters 2S**
 - 🌱 I’m currently learning **Open Source Project**, **Automation**
 - 💬 Ask me about `anything`
-- 📫 How to reach me: twitter.com/NonthawatDC
+- 📫 How to reach me: twitter.com/n0nzdotdev
 - ⚡ Fun fact: I was a **Counter-Strike: Global Offensive** player.
