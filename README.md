@@ -6,7 +6,7 @@ I'm a **Backend Developer** working in **KASIKORN Business - Technology Group, T
 - 💻 I daily use: `Go`, `Jenkins`, `Docker`, `Kubernetes`, `OpenShift`, `MongoDB`, `Redis`, `Shell Script`
 - ⌨️ Apps I use: `IntelliJ IDEA`, `VS Code`, `iTerm 2`, `Zsh`, `oh-my-zsh`, `Starship Prompt`, `BetterTouchTools`, `Karabiner`, `Keyboard Maestro`, `Alfred`, `Spotify`
 - 🚀 Colorschemes I use (I always switch between Light and Dark depends on the environment / sunlight.) `Jetbrains Default`, [GitHub Primer](https://github.com/primer/github-vscode-theme), [Min Theme](https://github.com/misolori/min-theme)
-- ⚙️ Setup: **Macbook Pro 15" 2019**, **Keychron K4**, **Logiech MX Masters 2S**
+- ⚙️ Setup: **Macbook Pro 15" 2019**, **Keychron K4**, **Logiech MX Masters 2S** with **Dell U2417H**
 - 🌱 I’m currently learning **Open Source Project**, **Automation**
 - 💬 Ask me about `anything`
 - 📫 How to reach me: twitter.com/n0nzdotdev
