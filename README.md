@@ -5,7 +5,7 @@ I'm a **Backend Developer / TL** working in **KASIKORN Business - Technology Gro
 - 🔭 I’m currently working at **KASIKORN Business - Technology Group, Thailand**
 - 💻 I daily use: `Go`, `Jenkins`, `Docker`, `Kubernetes`, `OpenShift`, `MongoDB`, `Redis`, `Shell Script`
 - ⌨️ Apps I use: `IntelliJ IDEA`, `VS Code Insiders`, `Vim`, `iTerm 2`, `Zsh`, `oh-my-zsh`, `Starship Prompt`, `BetterTouchTools`, `Karabiner`, `Keyboard Maestro`, `Alfred`, `Spotify`, `SetApp`, `Safari`, `Dark Reader for Safari`, `Firefox Developer Edition`
-- 🚀 Colorschemes I use: **Xcode Light & Xcode Dark**, **JetBrains Light & JetBrains Dark**, **GitHub (Primer) Light & GitHub (Primer) Dark**
+- 🚀 Colorschemes I use: **GitHub (Primer) Light & GitHub (Primer) Dark**
 - ⚙️ Setup: **Macbook Pro 15" 2019**, **Keychron K4**, **Logiech MX Masters 2S** with **Dell U2417H**
 - 🌱 I’m currently learning **Open Source Project**, **Automation**
 - 💬 Ask me about `anything`
