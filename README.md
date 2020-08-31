@@ -1,6 +1,6 @@
 ### # [Hi there 👋](https://n0nz.github.io)
 
-I'm a **Backend Developer / TL** working in **KASIKORN Business - Technology Group, Thailand.**
+I was a **Backend Developer / Technical Team Leader** @ **KASIKORN Business - Technology Group, Thailand.**
 
 - 🔭 I’m currently working at **KASIKORN Business - Technology Group, Thailand**
 - 💻 I daily use: `Go`, `Jenkins`, `Docker`, `Kubernetes`, `OpenShift`, `MongoDB`, `Redis`, `Shell Script`
