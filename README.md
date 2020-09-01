@@ -2,7 +2,7 @@
 
 I was a **Backend Developer (Go) / Technical Team Leader** @ **KASIKORN Business - Technology Group, Thailand.**
 
-- 🔭 I was a **Backend (Go) Developer & Technical Team Leader** at **KASIKORN Business - Technology Group, Thailand**
+- 🔭 I was a **Backend (Go) Developer & Technical Team Leader** at **KASIKORN Business - Technology Group, Thailand (KBTG)**
 - 💻 I daily use: `Go`, `Jenkins`, `Docker`, `Kubernetes`, `OpenShift`, `MongoDB`, `Redis`, `Shell Script`
 - ⌨️ Apps I use: `IntelliJ IDEA`, `VS Code Insiders`, `Vim`, `iTerm 2`, `Zsh`, `oh-my-zsh`, `Starship Prompt`, `BetterTouchTools`, `Karabiner`, `Keyboard Maestro`, `Alfred`, `Spotify`, `SetApp`, `Safari`, `Dark Reader for Safari`, `Firefox Developer Edition`
 - 🚀 Colorschemes I use: **GitHub**
