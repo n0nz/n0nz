@@ -1,6 +1,6 @@
 ### # [Hi there 👋](https://n0nz.github.io)
 
-I was a **Software Engineer / Backend Developer (Go) / Technical Team Leader** @ **KASIKORN Business - Technology Group, Thailand.**
+I am **Golang Developer** working for **Infraless Solutions**. Also, was a **Software Engineer / Backend Developer (Go) / Technical Team Leader** @ **KASIKORN Business - Technology Group, Thailand.**
 
 - 🔭 I was a **Software Engineer / Backend (Go) Developer & Technical Team Leader** at **KASIKORN Business - Technology Group, Thailand (KBTG)**
 - 💻 I daily use: `Go`, `Jenkins`, `Docker`, `Kubernetes`, `OpenShift`, `MongoDB`, `Redis`, `Shell Script`
