@@ -1,8 +1,8 @@
 ### # [Hi there 👋](https://n0nz.github.io)
 
-I am **Golang Developer** working for **Infraless Solutions**. Also, was a **Software Engineer / Backend Developer (Go) / Technical Team Leader** @ **KASIKORN Business - Technology Group, Thailand.**
+I am a **Golang Developer** working for **Infraless Solutions**. Also, was a **Software Engineer / Backend Developer (Go) / Technical Team Leader** @ **KASIKORN Business - Technology Group, Thailand.**
 
-- 🔭 I am **Golang Developer**. Previously, I worked as **Software Engineer / Backend (Go) Developer & Technical Team Leader** at **KASIKORN Business - Technology Group, Thailand (KBTG)**
+- 🔭 I am a **Golang Developer**. Previously, I worked as **Software Engineer / Backend (Go) Developer & Technical Team Leader** at **KASIKORN Business - Technology Group, Thailand (KBTG)**
 - 💻 I daily use: `Go`, `Jenkins`, `Docker`, `Kubernetes`, `OpenShift`, `MongoDB`, `Redis`, `Shell Script`
 - ⌨️ Apps I use: `IntelliJ IDEA`, `VS Code Insiders`, `Vim`, `iTerm 2`, `Zsh`, `oh-my-zsh`, `Powerlevel10k with Pure & Robbyrussell Theme`, `BetterTouchTools`, `Karabiner`, `Keyboard Maestro`, `Alfred`, `Spotify`, `SetApp`, `Safari`, `Dark Reader for Safari`, `Google Chrome (Beta)`, `Firefox Developer Edition`
 - 🚀 Colorschemes and Font I use: **Monokai Pro**, **Dracula Pro** with **Dank Mono 1.0**
