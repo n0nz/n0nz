@@ -10,4 +10,3 @@ I am a **Software Developer** working for **Infraless Solutions**. Also, was a *
 - 🌱 I’m currently learning **Open Source Project**, **Automation**, **Dynamic Programming**,  **Flutter** and **React**
 - 💬 Ask me about `anything`
 - 📫 How to reach me: twitter.com/n0nzdotdev
-- ⚡ Fun fact: I was a **Counter-Strike: Global Offensive** player.
